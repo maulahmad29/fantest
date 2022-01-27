@@ -1,0 +1,12 @@
+[
+    {
+        "id_users" : 1,
+        "type" : "IN",
+        "is_approve" :  true
+    },
+    {
+        "id_users" : 1,
+        "type" : "OUT",
+        "is_approve" : false
+    }
+]

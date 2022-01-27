@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "Ananda Bayu",
+        "email" : "bayu@email.com",
+        "npp" : "12345",
+        "npp_supervisor" : 11111
+    },
+    {
+        "name" : "Supervisor",
+        "email" : "spv@email.com",
+        "npp" : "11111",
+        "npp_supervisor" : null
+    }
+
+]
