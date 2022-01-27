@@ -6,6 +6,7 @@ kemudian konfigurasi .ENV APP_Key dan database, pastikan database di buat sebelu
 2. php artisan migrate
 3. php artisan db:seed
 4. php artisan serve
+5. Test menggunakan postman atau sejenisnya
 
 
 untuk tugas back-end dan logika ada di satu project, end point routingnya ada di routes\api.php
